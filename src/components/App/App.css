@@ -1,0 +1,22 @@
+.app {
+  font-family: 'OpenSans', sans-serif;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #fafafa;
+
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app__content {
+  margin: 0 auto;
+  max-width: 1150px;
+  width: 100%;
+  flex-grow: 1;
+}
