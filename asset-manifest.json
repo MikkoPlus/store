@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/store/static/css/main.d2f774d0.css",
+    "main.js": "/store/static/js/main.b2bd93cb.js",
+    "static/media/OpenSans-Regular.woff": "/store/static/media/OpenSans-Regular.228f4d40a73ac1c2fc68.woff",
+    "static/media/OpenSans-Light.woff": "/store/static/media/OpenSans-Light.c1cb7fbc9dbbc6fd4f94.woff",
+    "static/media/OpenSans-Bold.woff": "/store/static/media/OpenSans-Bold.c66176bb89de5c6157ea.woff",
+    "static/media/OpenSans-Regular.woff2": "/store/static/media/OpenSans-Regular.3a74c6a2f00f166e0991.woff2",
+    "static/media/OpenSans-Light.woff2": "/store/static/media/OpenSans-Light.fc466b37cd943aaffc98.woff2",
+    "static/media/OpenSans-Bold.woff2": "/store/static/media/OpenSans-Bold.c34c63ec2550735aa229.woff2",
+    "static/media/spinner.gif": "/store/static/media/spinner.1952935ed80fba5926fe.gif",
+    "static/media/logo.svg": "/store/static/media/logo.f3eec9899f0e121df1fb200aa52bfa35.svg",
+    "static/media/big-cart.svg": "/store/static/media/big-cart.7927a8e3354a284ab140.svg",
+    "static/media/cart.svg": "/store/static/media/cart.753fae9b262a392ffbb272e6cf037ea8.svg",
+    "static/media/square.svg": "/store/static/media/square.cd859bdfc5e44d207e2e.svg",
+    "static/media/folder.svg": "/store/static/media/folder.42c55d1fcee889ab7d4259834f102700.svg",
+    "index.html": "/store/index.html",
+    "main.d2f774d0.css.map": "/store/static/css/main.d2f774d0.css.map",
+    "main.b2bd93cb.js.map": "/store/static/js/main.b2bd93cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f774d0.css",
+    "static/js/main.b2bd93cb.js"
+  ]
+}
