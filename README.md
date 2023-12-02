@@ -24,4 +24,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-See project on github pages: https://mikkoplus.github.io/
+See project on github pages: https://mikkoplus.github.io/store

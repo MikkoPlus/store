@@ -10,7 +10,7 @@ export const Menu: React.FC = () => {
 
   return (
     <nav className='menu'>
-      <Link className='menu__link' to='/'>
+      <Link className='menu__link' to='/store'>
         <div className='menu__ico-container'>
           <img className='menu__ico' src={folderIco} alt='Каталог' />
         </div>

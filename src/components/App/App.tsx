@@ -30,7 +30,7 @@ export const App: React.FC = () => {
       <Header />
       <main className='app__content'>
         <Routes>
-          <Route path='/' element={<Catalog />} />
+          <Route path='/store' element={<Catalog />} />
           <Route path='/cart' element={<Cart />} />
           <Route path='/*' element={<NotFoundPage />} />
         </Routes>

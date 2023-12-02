@@ -1,7 +1,7 @@
 {
   "name": "shopper",
   "version": "0.1.0",
-  "homepage": "http://MikkoPlus.github.io/",
+  "homepage": "http://MikkoPlus.github.io/store",
   "private": true,
   "dependencies": {
     "@redux-devtools/extension": "^3.2.6",

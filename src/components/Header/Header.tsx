@@ -9,7 +9,7 @@ const Header: React.FC = () => {
     <>
       <header className='header'>
         <div className='header__container'>
-          <Link to='/'>
+          <Link to='/store'>
             <img className='header__logo' src={logo} alt='Логотип' />
           </Link>
           <Menu />
