@@ -11,6 +11,17 @@ export const Cart: React.FC = () => {
     return acc + item.price;
   }, 0);
 
+  const handleCartBtnClick = () => {
+    console.log(
+      'products: ',
+      cartProductsList,
+      'products count: ',
+      cartProductsList.length,
+      'products final price:',
+      finalCost
+    );
+  };
+
   return (
     <section className='cart'>
       <div className='cart__container'>
@@ -32,10 +43,13 @@ export const Cart: React.FC = () => {
             </ul>
             <div className='cart__total'>
               <p className='cart__result'>Итого</p>
-              <p className='cart__price'>{finalCost}</p>
-              <a href='' className='cart__redirect'>
+              <p className='cart__price'>{finalCost} р</p>
+              <button
+                onClick={handleCartBtnClick}
+                className='btn btn_purple cart__redirect'
+              >
                 Оплатить
-              </a>
+              </button>
             </div>
           </div>
         )}

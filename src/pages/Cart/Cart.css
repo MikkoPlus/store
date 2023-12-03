@@ -62,11 +62,6 @@
 .cart__redirect {
   text-decoration: none;
   font-size: 16px;
-  font-weight: 700;
-  background-color: #7378ec;
-  color: #fff;
-  padding: 10px 21px;
-  border-radius: 5px;
 }
 
 @media (max-width: 768px) {
@@ -80,6 +75,10 @@
   .cart__total {
     gap: 20px;
     font-size: 14px;
+  }
+
+  .cart__title {
+    font-size: 64px;
   }
 
   .cart__redirect {
