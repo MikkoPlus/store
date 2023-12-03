@@ -43,7 +43,7 @@ export const Cart: React.FC = () => {
             </ul>
             <div className='cart__total'>
               <p className='cart__result'>Итого</p>
-              <p className='cart__price'>{finalCost} р</p>
+              <p className='cart__price'>{finalCost}&nbsp;р</p>
               <button
                 onClick={handleCartBtnClick}
                 className='btn btn_purple cart__redirect'

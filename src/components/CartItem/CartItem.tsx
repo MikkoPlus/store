@@ -17,7 +17,7 @@ export const CartItem: React.FC<CartItemProps> = ({ name, price, id }) => {
   return (
     <li className='cart-item'>
       <p className='cart-item__name'>{name}</p>
-      <p className='cart-item__price'>{price} р</p>
+      <p className='cart-item__price'>{price}&nbsp;р</p>
       <button onClick={handleDeleteBtnClick} className='cart-item__delete' />
     </li>
   );
